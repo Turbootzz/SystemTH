@@ -6,7 +6,7 @@
  
  # Commands
  Type .help(page number) to see all the commands.
- It's still in beta, so there will be more commands and features in the future!
+ It's still in beta, so there will be more commands and features added in the future!
 
  Some Features:
  Fun commands: .meme .foodporn .predict [predicts the future] .sounds .playsound (sound)
