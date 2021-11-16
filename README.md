@@ -6,7 +6,9 @@
  
  # Commands
  To see all the commands type:
- <b>.help(page number)</b>
+ ```
+ .help(page number)
+ ```
  It's still in beta, so there will be more commands and features added in the future!
 
  Some Features:
