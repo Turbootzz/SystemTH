@@ -5,7 +5,8 @@
  If you are going to use some of the code, provide any sort of credits to me, for example in the embeds or in the help page. Please be a decent person :)
  
  # Commands
- Type .help(page number) to see all the commands.
+ To see all the commands type:
+ <b>.help(page number)</b>
  It's still in beta, so there will be more commands and features added in the future!
 
  Some Features:
