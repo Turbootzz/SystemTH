@@ -13,7 +13,7 @@
 
  <b>Fun commands: </b>
  ```
- .meme 
+ .meme [pulls a meme from reddit]
  .foodporn [pulls a reddit picture of some delicious food :)]
  .predict [predicts the future] 
  .sounds [shows a list of sounds you can play]
