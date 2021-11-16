@@ -26,6 +26,6 @@
  .volume (number)
  ```
  Add the bot to your server: [Click here](https://top.gg/bot/653220332454412288)\
- If you want to support me:
- Paypal: https://www.paypal.com/paypalme/ThijsHerman
+ If you want to support me:\
+ Paypal: https://www.paypal.com/paypalme/ThijsHerman\
  Thanks :)
