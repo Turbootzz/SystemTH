@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 from discord import Color, Embed
+import asyncio
 
 
 # De Catogorie
@@ -38,8 +39,6 @@ class Basic(commands.Cog):
         await ctx.send(helptext)
 
     """
-
-
 
 
 # Stuurt naar user de help embed.
