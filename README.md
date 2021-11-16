@@ -7,7 +7,7 @@
  # Commands
  To see all the commands type:
  ```
- .help(page number)
+ .help (page number)
  ```
  It's still in beta, so there will be more commands and features added in the future! The list below are some commands you can try. For the whole list type .help [as shown above].
 
@@ -25,7 +25,7 @@
  .stop 
  .volume (number)
  ```
- 
+ Add the bot to your server: [Click here](https://top.gg/bot/653220332454412288)
  If you want to support me:
  Paypal: https://www.paypal.com/paypalme/ThijsHerman
  Thanks :)

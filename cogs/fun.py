@@ -72,7 +72,7 @@ class Fun(commands.Cog):
         sorry_image=[
             ('http://turboot.com/images/sorry.png', 'VERY VERY MY SORRY'),
             ('http://turboot.com/images/sorry2.png', 'MY OPOPOGIES'),
-            ('http://turboot.com/images/lintpaard.png', 'HAHAHAH BAMBOOZLED')
+            # ('http://turboot.com/images/lintpaard.png', 'HAHAHAH BAMBOOZLED')
         ]
         embed = discord.Embed(
             color=discord.Colour.dark_blue()
