@@ -21,7 +21,9 @@
  ```
  <b>Music commands: </b>
  ```
- .play .stop .volume
+ .play (YouTube URL)
+ .stop 
+ .volume (number)
  ```
  
  If you want to support me:
