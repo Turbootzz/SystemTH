@@ -12,9 +12,18 @@
  It's still in beta, so there will be more commands and features added in the future!
 
  Some Features:
- Fun commands: .meme .foodporn .predict [predicts the future] .sounds .playsound (sound)
- Music commands: .play .stop .volume
- 
+ <b>Fun commands: </b>
+ ```
+ .meme 
+ .foodporn [pulls a reddit picture of some delicious food :)]
+ .predict [predicts the future] 
+ .sounds [shows a list of sounds you can play]
+ .playsound (sound)
+ ```
+ <b>Music commands: </b>
+ ```
+ .play .stop .volume
+ ```
  
  If you want to support me:
  Paypal: https://www.paypal.com/paypalme/ThijsHerman
