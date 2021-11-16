@@ -9,9 +9,8 @@
  ```
  .help(page number)
  ```
- It's still in beta, so there will be more commands and features added in the future!
+ It's still in beta, so there will be more commands and features added in the future! The list below are some commands you can try. For the whole list type .help [as shown above].
 
- Some Features:
  <b>Fun commands: </b>
  ```
  .meme 
