@@ -17,32 +17,11 @@ import praw
 import time
 import playsound
 
-# if os.path.exists(os.getcwd() + "/config.json"):
-#     with open("./config.json") as f:
-#         configData = json.load(f)
-#         for c in configData['botConfig']:
-#             #print('Prefix: ' + c['prefix'])
-#             print('Token: ' + c['token'])
-#         for c in configData['redditConfig']:
-#             print('Username: ' + c['reddit_username'])
-#             print('Password: ' + c['reddit_password'])
-#             print('Client ID: ' + c['reddit_client_id'])
-#             print('Client Secret: ' + c['reddit_client_secret'])
-
 def load():
     with open("config.json", "r") as file:
         return json.load(file)
     
 config = load()
-
-# else:
-#     configTemplate = {"Token": ""}
-
-#     with open(os.getcwd() + "/config.json", "w+") as f:
-#         json.dump(configTemplate, f)
-
-# token = configData["Token"]
-
 
 """
 def get_prefix(client, message):
